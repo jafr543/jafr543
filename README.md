@@ -1,4 +1,4 @@
-# Hi there! I'm Jafar Jaber 👋
+# Hi I'm Jafr Jaber 👋
 
 I am a highly disciplined, self-taught software developer focused on building solid foundations in computer science and software engineering. I chose the rigorous, deep-learning path to truly understand how systems work behind the scenes.
 
